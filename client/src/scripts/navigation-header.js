@@ -366,5 +366,3 @@ export const createModalForSingUpForm = (error, position = modalWindowPosition.c
 
     document.body.append(modalDiv);
 };
-
-//
